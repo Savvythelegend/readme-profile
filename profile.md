@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi there👋, I'm Mehfooj</h1>
-<h3 align="center">A budding engineer and tech enthusiast from India</h3>
+<h3 align="center">A passionate developer and tech enthusiast from India.</h3>
 <h4 align="center">Pursuing B.Tech and exploring the tech universe</h4>
 <p align="center">
 	<a href="https://savvythelegend.github.io">Profile</a> - 
@@ -46,11 +46,11 @@
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/Savvythelegend/MyFlaskApp"><b>🚀MyFlaskApp</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Savvythelegend/MyFlaskApp?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Savvythelegend/MyFlaskApp?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Savvythelegend/MyFlaskApp?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Savvythelegend/MyFlaskApp?style=flat-square"/></td>
+	<td><a href="https://github.com/Savvythelegend/DevDisplay.git"><b>🚀SummerEaze</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Savvythelegend/DevDisplay?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Savvythelegend/DevDisplay?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Savvythelegend/DevDisplay?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Savvythelegend/DevDisplay?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
