@@ -22,11 +22,11 @@
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript," /> 
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js," /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap,tailwind,mysql,selenium,scrapy,langchain," />
+  <img src="https://skillicons.dev/icons?i=flask,wordpress,bootstrap,java,tailwind,mysql,selenium,postgres,r,vim," />
   <br>
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,postman,vscode," />
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,postman,vscode,windows,mongodb" />
   <br />
 </div>
 <br />
