@@ -46,7 +46,7 @@
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/Savvythelegend/DevDisplay.git"><b>🚀SummerEaze</b></a></td>
+	<td><a href="https://github.com/Savvythelegend/DevDisplay.git"><b>🚀DevDisplay</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Savvythelegend/DevDisplay?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Savvythelegend/DevDisplay?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Savvythelegend/DevDisplay?style=flat-square"/></td>
