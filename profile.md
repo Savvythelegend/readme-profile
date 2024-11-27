@@ -22,14 +22,13 @@
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,javascript" /> 
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript," /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,tailwind,nextjs,react,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,tailwind,mysql,selenium,scrapy,langchain," />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,postman,vscode," />
   <br />
 </div>
-
 <br />
 
 <h2 align='center'><i>🥇 Open Source Projects open for contributions🚀</i></h2>
