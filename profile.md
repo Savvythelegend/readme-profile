@@ -5,9 +5,9 @@
 <h4 align="center">Pursuing B.Tech and exploring the tech universe</h4>
 <p align="center">
 	<a href="https://savvythelegend.github.io">Profile</a> - 
-	<a href="https://linkedin.com/in/mehfooj">LinkedIn</a> - 
-	<a href="mailto:mehfooj.official@gmail.com">Email</a> - 
-	<a href="https://x.com/Mehfooj">X</a> -
+	<a href="https://www.linkedin.com/in/mehfooj-alam-b6aa0b243">LinkedIn</a> - 
+	<a href="mailto:ml.mehfooj@gmail.com">Email</a> - 
+	<a href="[https://x.com/Mehfooj](https://twitter.com/Mehfooj194108)">X</a> -
 	<a href="https://medium.com/@mehfooj">Medium</a>
 </p>
 
@@ -69,7 +69,9 @@
 </details>
 
 <br>
+
 ## Participant in
+
 <div align="center">
   <table>
     <thead align="center">
@@ -104,6 +106,5 @@
 
 ## Hacktoberfest'24 Badges
 
-[![An image of @vanshcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshcodes)](https://holopin.io/@vanshcodes)
-
+[![An image of @savvythelegend's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savvythelegend)](https://holopin.io/@savvythelegend)
 <p align="right"><a href="#top">Back to TOP 🔝 </a></p>
